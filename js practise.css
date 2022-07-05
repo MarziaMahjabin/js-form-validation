@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+.body{
+  background: #5dbac3;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+.loginbox{
+  background: white;
+  width: 400px;
+  padding: 50px;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 157px;
+  box-shadow: 0px 0px 50px -7px #13121282;
+  border-radius: 20px;
+}
+.loginbox input {
+  width: 89%;
+  display: block;
+  padding: 20px;
+  padding-left: 20px;
+  background: #f2f2f2;
+  margin-bottom: 20px;
+  outline: none;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+  border: 1px solid #86ffd8;
+  box-shadow: -2px 0px 5px -2px;
+}
+.loginbtn{
+  background:linear-gradient( #00b242 , #8ce456)!important;
+  color:white;
+  width: 100% !important;
+  font-family: arial black;
+}
+.loginbtn:hover{
+  background:linear-gradient( #8ce456,#00b242 )!important;
+
+}
+
+.Registration  {
+  color: #6ad04a;
+   text-align: center;
+   font-family: arial ;
+   color: red;
+
+
+}
+.bany:visited{
+  color:red;
+}
+.bany:hover{
+  color: pink;
+}
+.Registration{
+  text-align: center;
+  font-size: 18px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+.head {
+  text-align: center;
+  color: #41980d;
+  margin: 0;
+  margin-bottom: 20px;
+  font-family: 'Rowdies', cursive;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 3px #5bd612;
+  font-size: 30px;
+}
+#welcomepage{
+  text-align: center;
+}
